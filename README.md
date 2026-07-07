@@ -1,6 +1,5 @@
 # 🏠 House Price Prediction — Ames Housing Dataset
 
-> **Level:** Beginner → Intermediate &nbsp;|&nbsp; **Domain:** Regression, Feature Engineering &nbsp;|&nbsp; **Tools:** Python, Pandas, Scikit-learn
 
 A complete, well-documented feature engineering + baseline modeling pipeline built on the famous **Ames Housing Dataset**, designed to predict `SalePrice`. This project is a great hands-on exercise for practicing real-world data cleaning, feature creation, encoding strategies, outlier handling, and scaling — the core skills every ML practitioner needs before modeling.
 
